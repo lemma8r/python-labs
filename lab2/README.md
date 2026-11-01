@@ -9,11 +9,11 @@
 ## Структура проекта
 *   `main.py` — основной файл для тестирования классов.
 *   `lab_python_oop/` — пакет с классами фигур:
-    *   `figure.py` — абстрактный класс Figure.
-    *   `color.py` — класс Color.
-    *   `rectangle.py` — класс Rectangle.
-    *   `square.py` — класс Square.
-    *   `circle.py` — класс Circle.
+    *   `figure.py` — абстрактный класс Figure. (Геометрическая фигура).
+    *   `color.py` — класс `Color` (Цвет фигуры).
+    *   `rectangle.py` — класс `Rectangle` (Прямоугольник).
+    *   `square.py` — класс `Square` (Квадрат).
+    *   `circle.py` — класс `Circle` (Круг).
 
 ## Установка и запуск
 1. Создано виртуальное окружение: `py -m venv venv`
